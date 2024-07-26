@@ -441,9 +441,7 @@ button:focus {
 .blockquote-footer {
   color: #a588c0 !important;
 }
-/* --------- */
-/* Projects */
-/* --------- */
+
 .project-section {
   position: relative !important;
   padding-top: 150px !important;
@@ -472,7 +470,11 @@ button:focus {
   overflow: hidden !important;
   box-shadow: 0 4px 4px 5px rgba(129, 72, 144, 0.561) !important;
 }
-
+.scrollable-card-container {
+  max-height: 300px; 
+  overflow-y: auto;
+  padding: 10px;
+}
 .blog-card {
   padding-top: 50px !important;
   padding-bottom: 50px !important;

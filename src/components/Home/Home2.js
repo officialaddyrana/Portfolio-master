@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Salesforce Admin and Developer,APEX,LWC,C++, Javascript and Go. </b>
+                <b className="purple"> Salesforce Admin and Developer, APEX, LWC, C++, Javascript </b>
               </i>
               <br />
               <br />
